@@ -1,7 +1,7 @@
 # esoptron-libretro-docs-assets-1
 Esoptron Libretro Docs Assets 1
 
-**NEVERMIND: PROBABLY NOT DOING THIS BECAUSE GITHUB DOESN'T LIKE PEOPLE USING IT AS A CDN
+**NEVERMIND: PROBABLY NOT DOING THIS BECAUSE GITHUB DOESN'T LIKE PEOPLE USING IT AS A CDN**
 
 I'm putting webms here so I don't increase the repository size of libretro/docs.
 

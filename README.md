@@ -18,7 +18,7 @@ Imgchest Uploads:
 
 Lensdump Uploads
 
-* https://lensdump.com/u/esoptron
+* https://lensdump.com/esoptron
 
 Collection of asset github repositories (size limit of one repository seems to be 2gb): 
 

@@ -7,7 +7,9 @@ I'm backing up Libretro/Docs webms and such here so I don't increase the reposit
 Libretro Team is free to do whatever they want with this repository
 
 DO NOT LINK DIRECTLY TO THESE ASSETS ON THIS GITHUB REPO
+
 GITHUB DOESN'T LIKE BEING USED AS A CDN
+
 I HAVE UPLOADED THE WEBMS AND OTHERS TO SEPARATE IMAGE HOSTERS
 
 Imgchest Uploads:

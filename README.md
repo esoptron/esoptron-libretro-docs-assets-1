@@ -1,14 +1,10 @@
-# esoptron-libretro-docs-assets-1
+# esoptron-libretro-docs-assets
 
 Esoptron Libretro Docs Assets
 
-I'm backing up Libretro/Docs webms and such here so I don't increase the repository size of libretro/docs
+I'm backing up Libretro/Docs webms and such here to the listed media hosts below so I don't increase the repository size of libretro/docs
 
-Libretro Team is free to do whatever they want with this repository
-
-DO NOT LINK DIRECTLY TO THESE ASSETS ON THIS GITHUB REPO
-
-GITHUB DOESN'T LIKE BEING USED AS A CDN
+Libretro Team is free to do whatever they want with the uploads
 
 I HAVE UPLOADED THE WEBMS AND OTHERS TO SEPARATE IMAGE HOSTERS
 
@@ -19,10 +15,6 @@ Imgchest Uploads:
 Lensdump Uploads
 
 * https://lensdump.com/esoptron
-
-Collection of asset github repositories (size limit of one repository seems to be 2gb): 
-
-* https://github.com/esoptron/libretro_docs_assets
 
 YouTube Uploads:
 

@@ -10,9 +10,17 @@ UPLOAD THEM TO A SEPARATE IMAGE HOST LIKE LENSDUMP OR IMGCHEST AND LINK TO THEM 
 
 Libretro Team is free to do whatever they want with this repository.
 
-Collection of asset repositories (size limit of one repository seems to be 2gb): 
+Collection of asset github repositories (size limit of one repository seems to be 2gb): 
 
 * https://github.com/esoptron/libretro_docs_assets
+
+Imgchest Uploads:
+
+* https://imgchest.com/u/esoptron
+
+Lensdump Uploads
+
+* https://lensdump.com/u/esoptron
 
 YouTube Backup:
 

@@ -1,6 +1,6 @@
 # esoptron-libretro-docs-assets-1
 
-Esoptron Libretro Docs Assets 1
+Esoptron Libretro Docs Assets
 
 I'm backing up Libretro/Docs webms and such here so I don't increase the repository size of libretro/docs
 
@@ -24,6 +24,6 @@ Collection of asset github repositories (size limit of one repository seems to b
 
 * https://github.com/esoptron/libretro_docs_assets
 
-YouTube Backup:
+YouTube Uploads:
 
 * https://www.youtube.com/@hed0nium

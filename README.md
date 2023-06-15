@@ -6,6 +6,10 @@ I'm backing up Libretro/Docs webms and such to the listed media hosts below so I
 
 Libretro Team is free to do whatever they want with the uploads
 
+YouTube Uploads:
+
+* https://www.youtube.com/@hed0nium
+
 Imgchest Uploads:
 
 * https://imgchest.com/u/esoptron
@@ -13,7 +17,3 @@ Imgchest Uploads:
 Lensdump Uploads:
 
 * https://lensdump.com/esoptron
-
-YouTube Uploads:
-
-* https://www.youtube.com/@hed0nium

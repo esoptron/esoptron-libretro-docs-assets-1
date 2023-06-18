@@ -10,10 +10,6 @@ Libretro Team is free to do whatever they want with the assets
 
 **LINK TO UPLOADS ON THE MEDIA HOSTS BELOW INSTEAD**
 
-YouTube Uploads:
-
-* https://www.youtube.com/@hed0nium
-
 Imgchest Uploads:
 
 * https://imgchest.com/u/esoptron
@@ -21,3 +17,7 @@ Imgchest Uploads:
 Lensdump Uploads:
 
 * https://lensdump.com/esoptron
+
+YouTube Uploads:
+
+* https://www.youtube.com/@hed0nium

@@ -2,7 +2,11 @@
 
 Esoptron Libretro Docs Assets
 
-I'm backing up Libretro/Docs webms and such to the listed media hosts below so I don't increase the repository size of libretro/docs
+I'm storing up Libretro/Docs webms and such to the listed media hosts below so I don't increase the repository size of libretro/docs
+
+**DO NOT DIRECTLY LINK TO THE WEBMS IN THE GITHUB REPOSITORY**
+
+**LINK TO IMAGE HOSTS INSTEAD**
 
 Libretro Team is free to do whatever they want with the uploads
 

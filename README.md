@@ -6,7 +6,7 @@ I'm storing up Libretro/Docs webms here so I don't increase the repository size 
 
 **DO NOT DIRECTLY LINK TO THE WEBMS IN THE GITHUB REPOSITORY**
 
-**LINK TO IMAGE HOSTS INSTEAD**
+**LINK TO UPLOADS ON THE MEDIA HOSTS BELOW INSTEAD**
 
 Libretro Team is free to do whatever they want with the uploads
 

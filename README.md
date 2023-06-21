@@ -6,7 +6,7 @@ I'm storing Libretro/Docs assets here so I don't increase the repository size of
 
 Libretro Team is free to do whatever they want with these assets
 
-**DO NOT DIRECTLY LINK TO THE WEBMS IN THIS GITHUB REPOSITORY**
+**DO NOT DIRECTLY LINK TO THE ASSETS IN THIS GITHUB REPOSITORY**
 
 **GITHUB DOESN'T LIKE BEING USED AS A CDN**
 

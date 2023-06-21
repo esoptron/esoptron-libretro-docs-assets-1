@@ -2,7 +2,7 @@
 
 Esoptron Libretro Docs Assets
 
-I'm storing Libretro/Docs webms here so I don't increase the repository size of Libretro/Docs
+I'm storing Libretro/Docs assets here so I don't increase the repository size of Libretro/Docs
 
 Libretro Team is free to do whatever they want with these assets
 
@@ -10,7 +10,7 @@ Libretro Team is free to do whatever they want with these assets
 
 **GITHUB DOESN'T LIKE BEING USED AS A CDN**
 
-**LINK TO UPLOADS ON THE MEDIA HOSTS LISTED BELOW INSTEAD**
+**LINK TO ASSETS UPLOADS ON THE MEDIA HOSTS LISTED BELOW INSTEAD**
 
 Imgchest Uploads:
 

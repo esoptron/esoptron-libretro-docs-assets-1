@@ -10,7 +10,7 @@ Libretro Team is free to do whatever they want with these assets
 
 # **GITHUB DOESN'T LIKE BEING USED AS A CDN**
 
-# **LINK TO ASSETS UPLOADS ON THE MEDIA HOSTS LISTED BELOW INSTEAD**
+# **LINK TO THE ASSET UPLOADS ON THE MEDIA HOSTS LISTED BELOW INSTEAD**
 
 Imgchest Uploads:
 

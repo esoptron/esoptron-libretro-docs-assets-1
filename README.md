@@ -2,7 +2,7 @@
 
 Esoptron Libretro Docs Assets
 
-I'm storing Libretro/Docs webms here so I don't increase the repository size of Libretro/Docs
+I'm storing webms and such here so I don't increase the repository size of Libretro/Docs
 
 Libretro Team is free to do whatever they want with these assets
 

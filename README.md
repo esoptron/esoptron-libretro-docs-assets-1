@@ -12,6 +12,8 @@ Libretro Team is free to do whatever they want with these assets. Literally anyt
 
 # **LINK TO THE ASSET UPLOADS ON THE MEDIA HOSTS LISTED BELOW INSTEAD**
 
+It sucks how Imgur went to shit so I guess I'm using YouTube
+
 YouTube Uploads:
 
 * https://www.youtube.com/@esop_tron

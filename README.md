@@ -16,10 +16,10 @@ YouTube Uploads:
 
 * https://www.youtube.com/@esop_tron
 
-Imgchest Uploads:
+Imgchest Uploads Backups:
 
 * https://imgchest.com/u/esoptron
 
-Lensdump Uploads:
+Lensdump Uploads Backups:
 
 * https://lensdump.com/esoptron

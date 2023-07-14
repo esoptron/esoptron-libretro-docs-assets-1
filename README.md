@@ -4,7 +4,7 @@ Esoptron Libretro Docs Assets
 
 I'm storing webms and such here so I don't increase the repository size of Libretro/Docs
 
-Libretro Team is free to do whatever they want with these assets. Literally anything they want. Which includes doing nothing.
+Libretro Team is free to do whatever they want with these assets.
 
 # **DO NOT DIRECTLY LINK TO THE ASSETS IN THIS GITHUB REPOSITORY**
 
